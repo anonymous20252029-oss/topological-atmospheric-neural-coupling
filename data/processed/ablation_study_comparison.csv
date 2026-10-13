@@ -1,0 +1,4 @@
+Mô hình,Đặc trưng trích xuất,Granger F-stat (Lag 2),Granger p-value,Peak CCF (Lag +2),AUC-ROC Lead Time
+Model 1: Linear Amplitude (Baseline),Biên độ dP/dt,0.879,4.1700e-01,0.09,0.573
+Model 2: Spectral Analysis (Fourier),Năng lượng phổ FFT,1.294,2.7690e-01,0.097,0.575
+Model 3: Proposed TDA (Homology H1),Homology Entropy H1,21.02,6.5860e-09,0.427,0.657
